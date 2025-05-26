@@ -1,0 +1,2 @@
+python IntelligentModel.py
+pause
